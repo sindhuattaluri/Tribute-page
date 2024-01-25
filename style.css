@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+#main
+{
+    
+    font-family: 'Fira Sans', sans-serif;
+
+    color: rgba(12, 1, 1, 0.981);
+    margin: auto;
+    max-width: 900px;
+    padding: 30px;
+    background-color: rgb(116, 132, 151);
+     border-radius: 30px;
+    
+}
+#img-div
+{
+    text-align: center;
+    margin-bottom: 40px;
+}
+img {
+    border-radius: 30px;
+
+}
+figcaption
+{
+    color: rgba(170, 0, 0, 0.992);
+}
+#tribute-info
+{
+    text-align: justify;
+    line-height: 1.5;
+}
+#quote
+{
+    text-align: right;
+}
+#list-of-awards
+{
+    margin-bottom: 30px;
+    line-height: 1.5;
+    
+}
+hr
+{
+  border-top: 2px solid rgb(14, 13, 13);
+}
